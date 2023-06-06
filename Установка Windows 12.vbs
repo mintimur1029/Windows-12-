@@ -1,0 +1,5 @@
+msgbox "УСТАНОВИТЬ Windows 12?",32,"Windows 12"
+msgbox "ИДЁТ УСТАНОВКА WINDOWS 12",64,"Windows 12"
+msgbox "УСТАНОВИТЬ Windows 12",32,"Windows 12"
+msgbox "на ваше компьютере невозможно установить windows 12, нажмите ок, чтобы сделать это возможным",16,"Windows 12"
+msgbox "теперь на вашем компьютере доступен windows 12, запустите файл  Windows 12 Setup.exe",64,"Windows 12"
